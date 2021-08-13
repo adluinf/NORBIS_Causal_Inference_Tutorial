@@ -7,9 +7,9 @@ This is a tutorial about **causal inference for genomics data** for the NORBIS R
 
 In this tutorial, you will look at a few TF/gene pairs from data published in [1]:
 
-  - to study the *distributions* of expression values,
-  - to perform *linear regression* to estimate **causal** effects,
-  - to compare with results obtained with the **causal** *Findr tests* [2,3],
+  - to study the ***distributions*** of expression values,
+  - to perform ***linear regression*** to estimate **causal** effects,
+  - to compare with results obtained with the **causal** ***Findr tests*** [2,3],
   - and to check on **databases** what the known interactions are:
     * Yeastract:	http://www.yeastract.com
     * SGD:		https://www.yeastgenome.org
@@ -23,8 +23,8 @@ The notebook ``Covariates_notebook.ipynb`` is setup to download the covariates f
 
 The notebook ``Causal_Inference_with_Linear_Regression_20210618.ipynb`` is setup to download the data files of differential gene expression data corrected for covariates. After that **you will preform the following tasks**:
 
-  1. Make a *visualisation* of gene expression values.
-  2. Perform *linear regression* on gene pairs and visualise the result.
+  1. Make a **visualisation** of gene expression values.
+  2. Perform **linear regression** on gene pairs and visualise the result.
   3. Answer the following question: "Are the distributions of the Regulator and Target Genes' expression values different for the possible Marker (eQTL) genotypes?"
 
 # Additional files
