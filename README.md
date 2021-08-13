@@ -24,9 +24,9 @@ The notebook ``Causal_Inference_with_Linear_Regression_20210618.ipynb`` is setup
   2. Perform **linear regression** on gene pairs and visualise the result.
   3. Answer the following question: "Are the distributions of the Regulator and Target Genes' expression values different for the possible Marker (eQTL) genotypes?"
   4. Check on **databases** what the known interactions are:
-    * Yeastract:	http://www.yeastract.com
-    * SGD:		https://www.yeastgenome.org
-    * Ensembl:	https://fungi.ensembl.org/Saccharomyces_cerevisiae/Info/Index
+     * Yeastract:	http://www.yeastract.com
+     * SGD:		https://www.yeastgenome.org
+     * Ensembl:	https://fungi.ensembl.org/Saccharomyces_cerevisiae/Info/Index
 
 # Additional files
 
