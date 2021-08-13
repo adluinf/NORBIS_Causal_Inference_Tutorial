@@ -7,8 +7,8 @@ In this tutorial, you will look at a few TF/gene pairs from data published in [1
 
   - to study the *distributions* of expression values,
   - to perform *linear regression*,
-  - to compare with results obtained with the Findr [2] tests,
-  - and to check on databases what the known interactions are:
+  - to compare with results obtained with the causal *Findr tests* [2],
+  - and to check on *databases* what the known interactions are:
     * Yeastract:	http://www.yeastract.com
     * SGD:		https://www.yeastgenome.org
     * Ensembl:	https://fungi.ensembl.org/Saccharomyces_cerevisiae/Info/Index
