@@ -12,6 +12,8 @@ In this tutorial, you will look at a few TF/gene pairs from data published in [1
   - to compare with results obtained with the **causal** ***Findr tests*** [2,3],
   - and to check on **databases** what the known interactions are.
 
+Note: the Jupiter notebooks (files with ``.ipynb`` extension) can be run either locally if you have python and Jupyter installed on your system or you can load them in google [Colab](https://colab.research.google.com/notebooks/intro.ipynb).
+
 # Covariates
 
 The notebook ``Covariates_notebook.ipynb`` is setup to download the covariates file (``SI_Data_02_covariates.xlsx``) and generate a graphical representation of these covariates for the differential gene expression data from [1].
