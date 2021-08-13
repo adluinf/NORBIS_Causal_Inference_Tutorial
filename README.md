@@ -39,6 +39,6 @@ There are two more files in this repository:
 
 1. Albert et al. (2018) eLife, 7, e35471. *Genetics of trans-regulatory variation in gene expression*. [DOI](https://doi.org/10.7554/eLife.35471)
 
-2. Ludl & Michoel (2021) Molecular Omics, 17, 241-251. *Comparison between instrumental variable and mediation-based methods for reconstructing causal gene networks in yeast*. [DOI](https://doi.org/10.1039/D0MO00140F) -- [github repo](https://github.com/lingfeiwang/findr)
+2. Ludl & Michoel. (2021) Molecular Omics, 17, 241-251. *Comparison between instrumental variable and mediation-based methods for reconstructing causal gene networks in yeast*. [DOI](https://doi.org/10.1039/D0MO00140F) -- [github repo](https://github.com/lingfeiwang/findr)
 
-3. Wang & Michoel. PLOS Computational Biology, 13(8), e1005703. *Efficient and accurate causal inference with hidden confounders from genome-transcriptome variation data*. [DOI](https://doi.org/10.1371/journal.pcbi.1005703) -- [github repo](https://github.com/michoel-lab/FindrCausalNetworkInferenceOnYeast)
+3. Wang & Michoel. (2017) PLOS Computational Biology, 13(8), e1005703. *Efficient and accurate causal inference with hidden confounders from genome-transcriptome variation data*. [DOI](https://doi.org/10.1371/journal.pcbi.1005703) -- [github repo](https://github.com/michoel-lab/FindrCausalNetworkInferenceOnYeast)
