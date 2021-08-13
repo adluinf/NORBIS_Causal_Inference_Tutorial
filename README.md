@@ -10,10 +10,7 @@ In this tutorial, you will look at a few TF/gene pairs from data published in [1
   - to study the ***distributions*** of expression values,
   - to perform ***linear regression*** to estimate **causal** effects,
   - to compare with results obtained with the **causal** ***Findr tests*** [2,3],
-  - and to check on **databases** what the known interactions are:
-    * Yeastract:	http://www.yeastract.com
-    * SGD:		https://www.yeastgenome.org
-    * Ensembl:	https://fungi.ensembl.org/Saccharomyces_cerevisiae/Info/Index
+  - and to check on **databases** what the known interactions are.
 
 # Covariates
 
@@ -26,6 +23,10 @@ The notebook ``Causal_Inference_with_Linear_Regression_20210618.ipynb`` is setup
   1. Make a **visualisation** of gene expression values.
   2. Perform **linear regression** on gene pairs and visualise the result.
   3. Answer the following question: "Are the distributions of the Regulator and Target Genes' expression values different for the possible Marker (eQTL) genotypes?"
+  4. Check on **databases** what the known interactions are:
+    * Yeastract:	http://www.yeastract.com
+    * SGD:		https://www.yeastgenome.org
+    * Ensembl:	https://fungi.ensembl.org/Saccharomyces_cerevisiae/Info/Index
 
 # Additional files
 
